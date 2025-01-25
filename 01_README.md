@@ -26,13 +26,13 @@
 ## **Contributors and Acknowledgements**
 ### **Contributors**
 - **Saikat Das Roky**
-- Reg No- 2018-15-18
+  **Reg No**- 2018-15-18
 - **Punam Kanungoe**
-- Reg No- 2018-15-24
+  **Reg No**- 2018-15-24
 
 
 ### **Instructor**
-- **Md Mynoddin**
+**Md Mynoddin**
 
 ---
 
