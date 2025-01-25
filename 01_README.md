@@ -7,6 +7,8 @@
    - [Objective](#objective)
    - [Significance](#significance)
    - [Dataset](#dataset)
+   - [Key Features](#key-features)
+   - [The Columns of the Dataset](#the-columns-of-the-dataset)
    - [Technologies Used](#technologies-used)
 2. [Detailed Project Workflow](#detailed-project-workflow)
    - [Data Preprocessing](#data-preprocessing)
@@ -43,12 +45,16 @@ The dataset used in this project is the **Life Expectancy Dataset**, published b
 - Available on [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who).
 
 
-- The columns of the dataset are:
+### **Key Features**
   - **Target Variable**: Life expectancy (in years)
   - **Demographic**: Population, schooling, income composition
   - **Health Indicators**: BMI, HIV/AIDS prevalence, immunization coverage
   - **Economic**: GDP, health expenditure
   - **Mortality Rates**: Adult, infant, and under-five mortality
+- Features were preprocessed, with unreliable columns excluded (e.g., population data) and missing values imputed. 
+
+
+### **The Columns of the Dataset**
   - **Country** : Country
   - **Year** : Year
   - **Status** : Country Developed or Developing status
@@ -71,7 +77,7 @@ The dataset used in this project is the **Life Expectancy Dataset**, published b
   - **thinness 5-9 years** : Prevalence of thinness among children for Age 5 to 9(%)
   - **Income composition of resources** : Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
   - **Schooling** : Number of years of Schooling(years)
-- Features were preprocessed, with unreliable columns excluded (e.g., population data) and missing values imputed.
+
 
 ### **Technologies Used**
 - **Programming Language**: Python
