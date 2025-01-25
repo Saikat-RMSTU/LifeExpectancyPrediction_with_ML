@@ -19,7 +19,8 @@
    - [Model Evaluation](#model-evaluation)
 3. [Results and Insights](#results-and-insights)
 4. [Future Enhancements](#future-enhancements)
-5. [References](#references)
+5. [Contributors and Acknowledgements](#contributors-and-acknowledgements)
+6. [References](#references)
 
 ---
 
@@ -162,6 +163,17 @@ The dataset used in this project is the **Life Expectancy Dataset**, published b
 2. Deploy the model via a Flask API for real-time predictions.
 3. Implement ensemble methods (e.g., stacking) for improved accuracy.
 4. Automate dataset preprocessing and feature engineering pipelines.
+
+---
+
+## **Contributors and Acknowledgements**
+### **Contributors**
+- **Saikat Das Roky**
+- **Punam Kanungoe**
+
+
+### **Instructor**
+- **Md Mynoddin**
 
 ---
 
