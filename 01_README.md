@@ -98,7 +98,7 @@ The dataset used in this project is the **Life Expectancy Dataset**, published b
 
 ## **Detailed Project Workflow**
 
-### **1. Data Preprocessing**
+### **Data Preprocessing**
 - **Column Name Normalization**: Simplified column names by converting them to lowercase and replacing spaces with underscores.
 - **Handling Missing Values**:
   - Imputed missing values for numeric features using median imputation.
@@ -108,18 +108,18 @@ The dataset used in this project is the **Life Expectancy Dataset**, published b
 - **Feature Scaling**:
   - Scaled numeric features using `MinMaxScaler` to standardize the range for consistent model performance.
 
-### **2. Exploratory Data Analysis (EDA)**
+### **Exploratory Data Analysis (EDA)**
 - Analyzed the distributions of key numeric variables using histograms.
 - Visualized pairwise relationships among features using pairplots (e.g., life expectancy vs. HIV/AIDS prevalence, BMI, and GDP).
 - Generated a correlation heatmap to uncover strong relationships, such as:
   - Negative correlation between adult mortality and life expectancy.
   - Positive correlation between income composition of resources, schooling, and life expectancy.
 
-### **3. Feature Engineering**
+### **Feature Engineering**
 - Engineered a derived feature: `bmi_to_hiv_ratio` for better representation of the relationship between BMI and HIV/AIDS prevalence.
 - Focused on reducing multicollinearity among features.
 
-### **4. Model Training**
+### **Model Training**
 Trained and evaluated the following regression models:
 - **Linear Regression**
 - **Random Forest Regressor**
@@ -128,11 +128,11 @@ Trained and evaluated the following regression models:
 - **K-Nearest Neighbors (KNN)**
 - **Decision Tree Regressor**
 
-### **5. Hyperparameter Tuning**
+### **Hyperparameter Tuning**
 - Used `GridSearchCV` to optimize hyperparameters for models like Random Forest, Gradient Boosting, and SVR.
 - Applied time-aware cross-validation (expanding window method) to prevent data leakage and ensure realistic performance evaluation.
 
-### **6. Model Evaluation**
+### **Model Evaluation**
 - Compared models using:
   - **Training R²**: How well the model fits the training data.
   - **Testing R²**: How well the model generalizes to unseen data.
