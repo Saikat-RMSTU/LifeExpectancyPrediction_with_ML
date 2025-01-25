@@ -23,7 +23,7 @@
 6. [References](#references)
 
 ---
-## **Contributors and Acknowledgements**
+## **Contributors and Instructor**
 ### **Contributors**
 - **Saikat Das Roky**
   
