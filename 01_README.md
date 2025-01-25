@@ -3,24 +3,36 @@
 
 ## **Table of Contents**
 
-1. [Project Overview](#project-overview)
+1. [Contributors and Acknowledgements](#contributors-and-acknowledgements)
+2. [Project Overview](#project-overview)
    - [Objective](#objective)
    - [Significance](#significance)
    - [Dataset](#dataset)
    - [Key Features](#key-features)
    - [The Columns of the Dataset](#the-columns-of-the-dataset)
    - [Technologies Used](#technologies-used)
-2. [Detailed Project Workflow](#detailed-project-workflow)
+3. [Detailed Project Workflow](#detailed-project-workflow)
    - [Data Preprocessing](#data-preprocessing)
    - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
    - [Feature Engineering](#feature-engineering)
    - [Model Training](#model-training)
    - [Hyperparameter Tuning](#hyperparameter-tuning)
    - [Model Evaluation](#model-evaluation)
-3. [Results and Insights](#results-and-insights)
-4. [Future Enhancements](#future-enhancements)
-5. [Contributors and Acknowledgements](#contributors-and-acknowledgements)
+4. [Results and Insights](#results-and-insights)
+5. [Future Enhancements](#future-enhancements)
 6. [References](#references)
+
+---
+## **Contributors and Acknowledgements**
+### **Contributors**
+- **Saikat Das Roky**
+- Reg No- 2018-15-18
+- **Punam Kanungoe**
+- Reg No- 2018-15-24
+
+
+### **Instructor**
+- **Md Mynoddin**
 
 ---
 
@@ -166,16 +178,6 @@ The dataset used in this project is the **Life Expectancy Dataset**, published b
 
 ---
 
-## **Contributors and Acknowledgements**
-### **Contributors**
-- **Saikat Das Roky**
-- **Punam Kanungoe**
-
-
-### **Instructor**
-- **Md Mynoddin**
-
----
 
 ## **References**
 - **WHO Life Expectancy Dataset**: [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
