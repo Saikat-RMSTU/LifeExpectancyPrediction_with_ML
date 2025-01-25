@@ -137,14 +137,16 @@ The dataset used in this project is the **Life Expectancy Dataset**, published b
 ## **Results and Insights**
 
 ### **Best Model**
-- **Random Forest Regressor**:
-  - **Training R²**: 0.95
-  - **Testing R²**: 0.92
+- **Gradient Boosting Regressor**:
+  - **Training R²**: 0.9875
+  - **Testing R²**: 0.9593
 
 ### **Key Predictors**
-- **Adult mortality** (negative correlation with life expectancy)
+- **HIV/AIDS**
 - **Income composition of resources**
-- **Schooling**
+- **Adult mortality** (negative correlation with life expectancy)
+
+
 
 ### **Feature Importance**
 - Socioeconomic and demographic features were more influential than immunization or health expenditure.
