@@ -9,7 +9,6 @@
    - [Significance](#significance)
    - [Dataset](#dataset)
    - [Key Features](#key-features)
-   - [The Columns of the Dataset](#the-columns-of-the-dataset)
    - [Technologies Used](#technologies-used)
 3. [Detailed Project Workflow](#detailed-project-workflow)
    - [Data Preprocessing](#data-preprocessing)
@@ -64,32 +63,6 @@ The dataset used in this project is the **Life Expectancy Dataset**, published b
   - **Health Indicators**: BMI, HIV/AIDS prevalence, immunization coverage
   - **Economic**: GDP, health expenditure
   - **Mortality Rates**: Adult, infant, and under-five mortality
-
-### **The Columns of the Dataset**
-  - **Country** : Country
-  - **Year** : Year
-  - **Status** : Country Developed or Developing status
-  - **Life expectancy** : Life expectancy in age
-  - **Adult Mortality** : Adult Mortality Rates of both sexes (probability of dying between 15 and 60 years per 1000 population)
-  - **Infant deaths** : Number of Infant Deaths per 1000 population
-  - **Alcohol** : Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)
-  - **Hepatitis B** : Hepatitis B (HepB) immunization coverage among 1-year-olds (%)
-  - **Measles** : Measles - number of reported cases per 1000 population
-  - **BMI** : Average Body Mass Index of entire population
-  - **Under-five deaths** : Number of under-five deaths per 1000 population
-  - **Polio** : Polio (Pol3) immunization coverage among 1-year-olds (%)
-  - **Total expenditure** : General government expenditure on health as a percentage of total government expenditure (%)
-  - **Diphtheria** : Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%)
-  - **HIV/AIDS** : Deaths per 1,000 live births HIV/AIDS (0–4 years)
-  - **GDP** : Gross Domestic Product per capita (in USD)
-  - **Population** : Population of the country
-  - **Thinness 10–19 years** : Prevalence of thinness among children and adolescents for Age 10 to 19 (%)
-  - **Thinness 5–9 years** : Prevalence of thinness among children for Age 5 to 9(%)
-  - **Income composition of resources** : Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
-  - **Schooling** : Number of years of Schooling(years)
-
-Available on [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who).
-  
 
 ### **Technologies Used**
 - **Programming Language**: Python
