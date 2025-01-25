@@ -66,8 +66,6 @@ The dataset used in this project is the **Life Expectancy Dataset**, published b
 
 ## **Detailed Project Workflow**
 
-### ** Download the dataset: **
-   Download the [Life Expectancy Dataset](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who) and save it as `data/life_expectancy_data.csv`.
 
 ### **1. Data Preprocessing**
 - **Normalize Column Names**: Converted column names to lowercase with underscores.
