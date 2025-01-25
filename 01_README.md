@@ -89,8 +89,8 @@ The dataset used in this project is the **Life Expectancy Dataset**, published b
   - **Income composition of resources** : Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
   - **Schooling** : Number of years of Schooling(years)
 
-
-- Available on [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who).
+---
+Available on [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who).
   
 
 ### **Technologies Used**
