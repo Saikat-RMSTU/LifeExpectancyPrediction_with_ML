@@ -57,7 +57,6 @@ The dataset used in this project is the **Life Expectancy Dataset**, published b
   - Adult mortality, infant deaths
   - BMI, schooling, GDP, immunization coverage
   - HIV/AIDS prevalence, thinness among children
-- Available on [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who).
 
 ### **Key Features**
   - **Target Variable**: Life expectancy (in years)
@@ -89,7 +88,6 @@ The dataset used in this project is the **Life Expectancy Dataset**, published b
   - **Income composition of resources** : Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
   - **Schooling** : Number of years of Schooling(years)
 
----
 Available on [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who).
   
 
