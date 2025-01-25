@@ -51,7 +51,7 @@ The dataset used in this project is the **Life Expectancy Dataset**, published b
   - **Health Indicators**: BMI, HIV/AIDS prevalence, immunization coverage
   - **Economic**: GDP, health expenditure
   - **Mortality Rates**: Adult, infant, and under-five mortality
-- Features were preprocessed, with unreliable columns excluded (e.g., population data) and missing values imputed. 
+
 
 
 ### **The Columns of the Dataset**
