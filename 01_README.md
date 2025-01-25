@@ -3,27 +3,38 @@
 
 ## **Table of Contents**
 
-1. [Project Overview](#project-overview)
+1. [Contributors and Instructor](#contributors-and-instructor)
+2. [Project Overview](#project-overview)
    - [Objective](#objective)
    - [Significance](#significance)
    - [Dataset](#dataset)
    - [Key Features](#key-features)
    - [The Columns of the Dataset](#the-columns-of-the-dataset)
    - [Technologies Used](#technologies-used)
-2. [Detailed Project Workflow](#detailed-project-workflow)
+3. [Detailed Project Workflow](#detailed-project-workflow)
    - [Data Preprocessing](#data-preprocessing)
    - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
    - [Feature Engineering](#feature-engineering)
    - [Model Training](#model-training)
    - [Hyperparameter Tuning](#hyperparameter-tuning)
    - [Model Evaluation](#model-evaluation)
-3. [Results and Insights](#results-and-insights)
-4. [Future Enhancements](#future-enhancements)
-5. [Contributors and Acknowledgements](#contributors-and-acknowledgements)
+4. [Results and Insights](#results-and-insights)
+5. [Future Enhancements](#future-enhancements)
 6. [References](#references)
 
 ---
+## **Contributors and Acknowledgements**
+### **Contributors**
+- **Saikat Das Roky**
+  - (**Reg No**- 2018-15-18)
+- **Punam Kanungoe**
+  - (**Reg No**- 2018-15-24)
 
+
+### **Instructor**
+- **Md Mynoddin**
+
+---
 ## **Project Overview**
 
 ### **Objective**
@@ -108,12 +119,12 @@ The dataset used in this project is the **Life Expectancy Dataset**, published b
 
 ### **4. Model Training**
 Trained and evaluated the following regression models:
-- **Linear Regression**: Baseline for comparison.
-- **Random Forest Regressor**: Leveraged ensemble learning for feature importance analysis.
-- **Gradient Boosting Regressor**: Optimized for strong performance on complex patterns.
-- **Support Vector Regressor (SVR)**: Captured non-linear relationships.
-- **K-Nearest Neighbors (KNN)**: Leveraged proximity-based predictions.
-- **Decision Tree Regressor**: Interpretable, though prone to overfitting.
+- **Linear Regression**
+- **Random Forest Regressor**
+- **Gradient Boosting Regressor**
+- **Support Vector Regressor (SVR)**
+- **K-Nearest Neighbors (KNN)**
+- **Decision Tree Regressor**
 
 ### **5. Hyperparameter Tuning**
 - Used `GridSearchCV` to optimize hyperparameters for models like Random Forest, Gradient Boosting, and SVR.
@@ -153,29 +164,13 @@ Trained and evaluated the following regression models:
 ---
 
 ## **Future Enhancements**
-1. **Incorporate Additional Datasets**:
-   - Add global economic indices or environmental data for improved predictions.
-2. **Deploy Model**:
-   - Use Flask or FastAPI to build an interactive web application for real-time predictions.
-3. **Ensemble Models**:
-   - Combine models like Gradient Boosting and Random Forest for higher accuracy and robustness.
-4. **Automate Feature Engineering**:
-   - Implement automated tools to identify interactions between features.
-5. **Temporal Analysis**:
-   - Explore trends over time for countries to provide more actionable recommendations.
+1. Incorporate additional datasets (e.g., global economic indices) for enhanced predictions.
+2. Deploy the model via a Flask API for real-time predictions.
+3. Implement ensemble methods (e.g., stacking) for improved accuracy.
+4. Automate dataset preprocessing and feature engineering pipelines.
 
 ---
 
-## **Contributors and Acknowledgements**
-### **Contributors**
-- **Your Name**
-- **Project Member Name 1**
-- **Project Member Name 2**
-
-### **Instructor**
-- **Instructor's Name**
-
----
 
 ## **References**
 - **WHO Life Expectancy Dataset**: [Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
