@@ -59,7 +59,7 @@ Life expectancy serves as a vital benchmark for the overall health, development,
 
 ### **Dataset**
 The dataset used in this project is the **Life Expectancy Dataset**, published by the WHO and the United Nations. It covers:
-- **183 countries** over **16 years** (2000–2015).
+- **193 countries** over **16 years** (2000–2015).
 - Health, demographic, and socioeconomic indicators, such as:
   - Life expectancy (target variable)
   - Adult mortality, infant deaths
@@ -89,7 +89,7 @@ The dataset used in this project is the **Life Expectancy Dataset**, published b
   - **Polio**: Polio (Pol3) immunization coverage among 1-year-olds (%)
   - **Total expenditure**: General government expenditure on health as a percentage of total government expenditure (%)
   - **Diphtheria**: Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%)
-  - **HIV/AIDS**: Deaths per 1 000 live births HIV/AIDS (0-4 years)
+  - **HIV/AIDS**: Deaths per 1000 live births HIV/AIDS (0-4 years)
   - **GDP**: Gross Domestic Product per capita (in USD)
   - **Population**: Population of the country
   - **thinness 1-19 years**: Prevalence of thinness among children and adolescents for Age 10 to 19 (%)
