@@ -166,10 +166,13 @@ Trained and evaluated the following regression models:
 - Health indicators, such as immunization coverage, had relatively lower importance due to widespread implementation globally.
 
 ### **Recommendations**
-- Governments should focus on:
-  - Reducing HIV/AIDS prevalence.
-  - Improving education systems to ensure equitable access to quality schooling.
-  - Increasing investments in health infrastructure and income equality.
+- Governments should focus on strengthening healthcare infrastructure to expand access to medical services, especially in underprivileged and remote areas.
+  
+- Launch targeted initiatives to combat diseases such as HIV/AIDS by raising awareness, promoting preventive measures, and ensuring affordable treatment is widely available. 
+
+- Improve education systems and guarantee fair access to schooling, particularly for low-income and rural communities, as education significantly influences life expectancy.
+
+- Promote public health campaigns emphasizing preventive care, healthy lifestyle choices, and the early diagnosis of chronic illnesses to lower mortality rates and improve quality of life.
 
 ---
 
