@@ -1,4 +1,4 @@
-# Dataset Description: Life Expectancy Prediction
+# Dataset Description for Life Expectancy Prediction
 
 ## **Source**
 The dataset for this project was obtained from [Kaggle](https://www.kaggle.com/kumarajarshi/life-expectancy-who). It originates from two primary sources:
