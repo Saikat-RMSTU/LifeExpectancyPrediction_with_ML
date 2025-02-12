@@ -48,6 +48,8 @@
 ---
 ## **Project Overview**
 
+This project serves as a valuable tool for governments, researchers, and organizations, offering deep insights into the key factors shaping global life expectancy trends. By leveraging machine learning, we move towards a future where data-driven strategies can significantly improve public health and societal well-being.
+
 ### **Objective**
 The primary goal of this project is to develop a robust machine-learning pipeline to predict life expectancy using various health, demographic, and socioeconomic features. The model aims to uncover critical life expectancy factors, enabling data-driven decision-making to enhance public health strategies and resource allocation. Additionally, this project delves into feature importance analysis to provide actionable insights for policymakers, guiding them in prioritizing impactful interventions that improve overall well-being.
 
@@ -194,7 +196,7 @@ To further refine the model and broaden its applicability, the following enhance
 
 
 ---
-This project serves as a valuable tool for governments, researchers, and organizations, offering deep insights into the key factors shaping global life expectancy trends. By leveraging machine learning, we move towards a future where data-driven strategies can significantly improve public health and societal well-being.
+
 
 
 ## **References**
