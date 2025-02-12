@@ -173,7 +173,7 @@ Each model's performance was assessed using:
 
 ---
 
-### **Recommendations**
+## **Recommendations**
 
 Based on the findings, the following policy recommendations are proposed:
 - **Healthcare Infrastructure:** Strengthen healthcare facilities in low-income regions to improve access to medical care.
